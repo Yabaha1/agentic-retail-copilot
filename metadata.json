@@ -1,0 +1,8 @@
+{
+  "name": "Agentic / NewGen Retail Copilot (Demo)",
+  "description": "Agentic AI assistant for retail operations with autonomous stockout forecasting, price optimization, sales trend analysis, and process automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
