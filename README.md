@@ -8,7 +8,7 @@
 ## 👨‍💻 Author & Engineering Leadership
 
 **© 2026 Developed by BAMBA Yabaha ( +225 07 77 61 47 11 ) , email id : bambayabahasolomarius@gmail.com**  
-- **Lead AI & Full-Stack Systems Architect**: BAMBA Yabaha  
+- **AI-driven Program Manager**: BAMBA Yabaha  
 - **Direct Phone / WhatsApp**: `+225 07 77 61 47 11`  
 - **Email**: `bambayabahasolomarius@gmail.com`  
 - **Domain Focus**: Agentic AI Systems, Enterprise Retail Analytics, Operations Automation
